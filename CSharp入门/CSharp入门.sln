@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Lesson1", "CSharp_Lesson1\CSharp_Lesson1.csproj", "{CDFA5EAB-EE46-4D39-A348-893EB8E92E1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_Lesson1", "CSharp_Lesson1\CSharp_Lesson1.csproj", "{CDFA5EAB-EE46-4D39-A348-893EB8E92E1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Lesson1_exercise", "CSharp_Lesson1_exercise\CSharp_Lesson1_exercise.csproj", "{6D253942-9F5A-4520-B68D-A446D6790D18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_Lesson1_exercise", "CSharp_Lesson1_exercise\CSharp_Lesson1_exercise.csproj", "{6D253942-9F5A-4520-B68D-A446D6790D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Lesson2", "CSharp_Lesson2\CSharp_Lesson2.csproj", "{5BCC492F-76D1-4A49-8D79-EBC45BAAF206}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6D253942-9F5A-4520-B68D-A446D6790D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D253942-9F5A-4520-B68D-A446D6790D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D253942-9F5A-4520-B68D-A446D6790D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCC492F-76D1-4A49-8D79-EBC45BAAF206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCC492F-76D1-4A49-8D79-EBC45BAAF206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCC492F-76D1-4A49-8D79-EBC45BAAF206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCC492F-76D1-4A49-8D79-EBC45BAAF206}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
