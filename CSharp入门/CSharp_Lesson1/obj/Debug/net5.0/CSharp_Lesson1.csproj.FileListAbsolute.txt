@@ -1,0 +1,16 @@
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\bin\Debug\net5.0\CSharp_Lesson1.exe
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\bin\Debug\net5.0\CSharp_Lesson1.deps.json
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\bin\Debug\net5.0\CSharp_Lesson1.runtimeconfig.json
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\bin\Debug\net5.0\CSharp_Lesson1.runtimeconfig.dev.json
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\bin\Debug\net5.0\CSharp_Lesson1.dll
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\bin\Debug\net5.0\ref\CSharp_Lesson1.dll
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\bin\Debug\net5.0\CSharp_Lesson1.pdb
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\obj\Debug\net5.0\CSharp_Lesson1.csprojAssemblyReference.cache
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\obj\Debug\net5.0\CSharp_Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\obj\Debug\net5.0\CSharp_Lesson1.AssemblyInfoInputs.cache
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\obj\Debug\net5.0\CSharp_Lesson1.AssemblyInfo.cs
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\obj\Debug\net5.0\CSharp_Lesson1.csproj.CoreCompileInputs.cache
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\obj\Debug\net5.0\CSharp_Lesson1.dll
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\obj\Debug\net5.0\ref\CSharp_Lesson1.dll
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\obj\Debug\net5.0\CSharp_Lesson1.pdb
+C:\ClassCode\Unity_CSharp_ClassCode\CSharp入门\CSharp_Lesson1\obj\Debug\net5.0\CSharp_Lesson1.genruntimeconfig.cache
